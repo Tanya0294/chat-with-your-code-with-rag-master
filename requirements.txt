@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+nest-asyncio
+
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-langchain
+
+langchain-community
